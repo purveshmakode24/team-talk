@@ -1,2 +1,2 @@
 # disqus-saas-drf
-Disqus - A SAAS platform backend services using DRF.
+Disqus - A simple SAAS based platform backend services using DRF.
