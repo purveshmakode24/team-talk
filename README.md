@@ -15,6 +15,7 @@ TeamTalk - Join teams and engage in discussions
 
 3) Admin Privileges:
    - Admins can create/delete/edit topics.
+   - Admins can comment on topics.
    - Admins have the authority to delete any comments made by team members.
      
 4) User Interaction with Topics:
